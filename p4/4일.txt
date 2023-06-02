@@ -1,0 +1,44 @@
+for 문 
+
+for(int i=0; i<=5; i++)
+{
+//Loop scope 안에서
+//반복할 문장들...
+}
+
+for(  
+1.int i=0; → 초기값
+2.,5. i<=5; → 조건식
+4.,7.i+=1) → 증감식
+3.,6.
+{
+ //반복할 내용
+}
+1.→2.→3.→4.→5.→6.→7.
+
+
+switch / case 문 
+조건문 중에 하나이다. 
+
+switch(케이스 분류할 값)
+{
+	case 값1: 문장 ; break;
+	case 값2: 문장 ; break;
+	case ... : 문장 ; break;
+	default : 문장 ; break;
+}
+
+conio.h 는 콘솔 입출력 함수를 제공하는 헤더입니다. 
+여러가지로 유용하게 쓸수 있는 함수가 많습니다. 
+특히 전 kbhit 이랑 getch를 많이 사용합니다!!
+
+
+
+
+
+
+
+
+0
+
+https://enter.tistory.com/category/C
