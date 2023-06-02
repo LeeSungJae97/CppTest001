@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "P3sanf", "P3sanf\P3sanf.vcxproj", "{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Debug|x64.ActiveCfg = Debug|x64
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Debug|x64.Build.0 = Debug|x64
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Debug|x86.ActiveCfg = Debug|Win32
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Debug|x86.Build.0 = Debug|Win32
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Release|x64.ActiveCfg = Release|x64
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Release|x64.Build.0 = Release|x64
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Release|x86.ActiveCfg = Release|Win32
+		{C00C6544-21CB-4CC4-B9FF-85EF4C65111B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2228AFAE-9B5F-4174-9E01-F7A8894D63E9}
+	EndGlobalSection
+EndGlobal

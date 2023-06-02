@@ -7,7 +7,7 @@
 
 int main()
 {
-    printf("가위바위보 게임 \n 1,2,3 중 하나를 선택하시오  ");
+    printf("가위바위보 게임 \n 1,2,3 중 하나를 선택하시오  ");//무조건 비기는 코드로 만들었습니다.
     int inputNumber = 2;
     scanf_s("%d", & inputNumber);
 
